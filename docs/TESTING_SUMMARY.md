@@ -399,5 +399,5 @@ snapshot, reconcile the missing range, and only then advance the indexer.
 - [Keeper recovery model](./KEEPER_RECOVERY.md)
 - [Restart-during-outage example](../examples/restart-during-outage.ts)
 - [Checkpoint implementation](../sdk/src/persistence.ts)
-- [Event listener implementation](../sdk/src/eventListener.ts)
+- [Event listener implementation](../sdk/src/eventListener.ts).
 - 
